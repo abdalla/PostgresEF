@@ -19,7 +19,9 @@ namespace Postgres_EF
             {
                 //db.Pets.Remove(p);
                 Console.WriteLine(p.Name);
+
             }
+            Console.WriteLine("Finished");
 
             Console.Read();
         }
