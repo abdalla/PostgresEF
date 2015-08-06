@@ -18,6 +18,7 @@ namespace Postgres_EF
             {
                 Console.WriteLine(p.Name);
             }
+
             Console.WriteLine("Finished");
             Console.Read();
         }
