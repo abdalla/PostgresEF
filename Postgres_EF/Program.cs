@@ -14,10 +14,8 @@ namespace Postgres_EF
         {
             var db = new DBContext();
 
-            var pets = db.Pets;
-            foreach (var p in pets)
+            foreach (var p in db.Pets)
             {
-                //db.Pets.Remove(p);
                 Console.WriteLine(p.Name);
             }
             Console.WriteLine("Finished");
