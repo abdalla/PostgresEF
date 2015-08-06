@@ -20,6 +20,7 @@ namespace Postgres_EF
             }
             Console.WriteLine("Finished");
             Console.Read();
+
         }
     }
 }
