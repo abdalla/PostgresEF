@@ -23,3 +23,4 @@ C:\Projects\Tests\Postgres_EF\Postgres_EF\obj\Debug\Postgres_EF.pdb
 C:\Projects\Tests\Postgres_EF\PostgresEF\Postgres_EF\bin\Debug\Postgres_EF.exe.config
 C:\Projects\Tests\Postgres_EF\PostgresEF\Postgres_EF\obj\Debug\Postgres_EF.exe
 C:\Projects\Tests\Postgres_EF\PostgresEF\Postgres_EF\obj\Debug\Postgres_EF.pdb
+C:\Users\AbdallaC\Documents\GitHub\PostgresEF\Postgres_EF\bin\Debug\Postgres_EF.exe.config

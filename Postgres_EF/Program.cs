@@ -14,19 +14,12 @@ namespace Postgres_EF
         {
             var db = new DBContext();
 
-            //var pet = new Pet { IdPet = 1, Name = "Mussum" };
-            //var pet2 = new Pet { Name = "Cacildis" };
-            //db.Pets.Add(pet);
-            //db.Pets.Add(pet2);
-            //db.SaveChanges();
-
             var pets = db.Pets;
             foreach (var p in pets)
             {
                 //db.Pets.Remove(p);
                 Console.WriteLine(p.Name);
             }
-            //db.SaveChanges();
 
             Console.Read();
         }
