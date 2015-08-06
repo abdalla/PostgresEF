@@ -1,0 +1,25 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\Postgres_EF\Postgres_EF\bin\Debug\Postgres_EF.exe.config
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Postgres_EF.exe.config
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Postgres_EF.exe
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Postgres_EF.pdb
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\EntityFramework.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Mono.Security.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Npgsql.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Npgsql.EntityFramework.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\EntityFramework.xml
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Npgsql.xml
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\Npgsql.EntityFramework.xml
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\de\Npgsql.resources.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\es\Npgsql.resources.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\fi\Npgsql.resources.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\fr\Npgsql.resources.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\ja\Npgsql.resources.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Projects\Tests\Postgres_EF\Postgres_EF\obj\Debug\Postgres_EF.csprojResolveAssemblyReference.cache
+C:\Projects\Tests\Postgres_EF\Postgres_EF\obj\Debug\Postgres_EF.exe
+C:\Projects\Tests\Postgres_EF\Postgres_EF\obj\Debug\Postgres_EF.pdb
+C:\Projects\Tests\Postgres_EF\PostgresEF\Postgres_EF\bin\Debug\Postgres_EF.exe.config
+C:\Projects\Tests\Postgres_EF\PostgresEF\Postgres_EF\obj\Debug\Postgres_EF.exe
+C:\Projects\Tests\Postgres_EF\PostgresEF\Postgres_EF\obj\Debug\Postgres_EF.pdb

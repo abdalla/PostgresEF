@@ -1,0 +1,15 @@
+﻿{
+  "dev": "postgres://abdalla:abdallah@localhost/petstore",
+
+  "test": {
+    "driver": "sqlite3",
+    "filename": ":memory:"
+  },
+
+  "prod": {
+    "driver": "pg",
+    "user": "abdalla",
+    "password": "abdallah",
+    "database": "petstore"
+  }
+}
